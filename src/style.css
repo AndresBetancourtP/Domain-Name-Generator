@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 23px;
+}
+
+#finalResults {
+  list-style-type: none;
+  text-align: left;
+}
+
+#master {
+  display: flex;
+  justify-content: left;
+}
+h1 {
+  text-align: left;
+}
