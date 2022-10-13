@@ -6,15 +6,7 @@ body {
   font-size: 23px;
 }
 
-#finalResults {
+#resultadofinal {
   list-style-type: none;
-  text-align: left;
-}
-
-#master {
-  display: flex;
-  justify-content: left;
-}
-h1 {
   text-align: left;
 }
